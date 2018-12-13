@@ -1,4 +1,3 @@
-# Kontextlab
 
 First of all you'll need the latest version of node.js, so please make sure you have it.
 
